@@ -1,8 +1,7 @@
-  <header>
- 
-  ![new1](https://github.com/user-attachments/assets/019120b9-cec0-47d8-b49a-f6607e00fdd8)
-
-  </header>
+<header>
+        <h1>LibrA</h1>
+      
+ </header>
 
   <section>
         <h2>👥 Members</h2>
