@@ -18,7 +18,7 @@
   <section>
         <h2>📥 Download</h2>
       
-[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/yourusername/your-repo/releases/download/v1.0/your-app.apk)
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)]([https://github.com/yourusername/your-repo/releases/download/v1.0/your-app.apk](https://github.com/morimori21/LibrA/releases/download/1.0.0/Gelicious.Grade-lookup.-.BETA.2.apk))
 
   </section>
 
