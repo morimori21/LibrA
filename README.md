@@ -17,11 +17,11 @@
 
   <section>
         <h2>📥 Download</h2>
-        <a href="link-to-apk" style="text-decoration: none;">
-            <button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">
-                <strong>Download APK</strong>
-            </button>
-        </a>
+      
+<button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">
+          
+</button>
+
   </section>
 
   <section>
