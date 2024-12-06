@@ -18,9 +18,7 @@
   <section>
         <h2>📥 Download</h2>
       
-<button style="padding: 10px 20px; background-color: #28a745; color: white; border: none; border-radius: 5px; cursor: pointer;">
-          
-</button>
+[![Download APK](https://img.shields.io/badge/Download-APK-brightgreen)](https://github.com/yourusername/your-repo/releases/download/v1.0/your-app.apk)
 
   </section>
 
